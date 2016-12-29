@@ -1,7 +1,7 @@
 {
   "name": "smachen.github.io",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "hexo": {
     "version": "3.2.2"
   },
