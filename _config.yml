@@ -69,5 +69,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/smachen/smachen.github.io.git
+  repo: git@github.com:smachen/smachen.github.io.git
   branch: master
+  message: 博客文章上传
