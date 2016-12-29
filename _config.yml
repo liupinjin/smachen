@@ -71,4 +71,4 @@ deploy:
   type: git
   repo: git@github.com:smachen/smachen.github.io.git
   branch: master
-  message: 博客文章上传
+  message: Blog post upload
