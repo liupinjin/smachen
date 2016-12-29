@@ -1,7 +1,8 @@
+#功能类似于.gitignore
 .DS_Store
+.deploy*/
+*.log
 Thumbs.db
 db.json
-*.log
 node_modules/
 public/
-.deploy*/
