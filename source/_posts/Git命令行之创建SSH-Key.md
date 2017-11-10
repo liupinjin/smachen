@@ -39,7 +39,7 @@ The key's randomart image is:
 |    *++ .+++*.   |
 +----[SHA256]-----+
 {% endcodeblock %}
-
+<!-- more -->
 3.添加 私密钥 到ssh，如果之前输入密码，则此处也需要输入
 ```command
 ssh-add ~/.ssh/id_rsa
