@@ -72,6 +72,10 @@
   {% include '_scripts/third-party/lean-analytics.swig' %}
   {% include '_scripts/baidu-push.swig' %}
   {% include '_components/algolia-search/assets.swig' %}
-
+  {% if theme.canvas_nest %}
+  <!-- color颜色：默认是（0，0，0），格式是（R,G,B）opacity 透明度：（0-1），默认0.5 count线段的数量：默认2， zIndexZ轴：默认-1 -->
+  <script type="text/javascript" count="180" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
+  </script>
+  {% endif %}
 </body>
 </html>
