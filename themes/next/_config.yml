@@ -295,8 +295,10 @@ baidu_analytics: 55d20351ba6d0b6fa2570f5b5e15d573
 #duoshuo_share: true
 
 # Google Webmaster tools verification setting
+# HODTXt3-Q9ip1dgozZ63ivOaCSaZSIFlk49-vkTcGpw https://shuanfo.com
+# GCrTQGup_czjI8b2g4FKzvAoTFPU2MM1IH2a_j5D-R0 https://smachen.github.io
 # See: https://www.google.com/webmasters/
-google_site_verification: HODTXt3-Q9ip1dgozZ63ivOaCSaZSIFlk49-vkTcGpw
+google_site_verification: GCrTQGup_czjI8b2g4FKzvAoTFPU2MM1IH2a_j5D-R0
 
 
 # Google Analytics

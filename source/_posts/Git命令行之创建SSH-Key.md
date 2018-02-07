@@ -2,7 +2,8 @@
 title: Git命令行之创建SSH Key
 date: 2016-12-29 15:16:16
 categories:
-- 文章
+- 技术
+- Git
 tags: 
 - git
 - ssh

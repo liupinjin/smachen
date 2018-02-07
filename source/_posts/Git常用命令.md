@@ -2,7 +2,8 @@
 title: Git常用命令
 date: 2017-01-19 10:42:45
 categories:
-- 文章
+- 技术
+- Git
 tags:
 - git
 - 命令

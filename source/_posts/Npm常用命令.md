@@ -1,8 +1,9 @@
 ---
-title: Npm常用命令
+title: NPM常用命令
 date: 2017-01-19 10:46:37
 categories:
-- 文章
+- 技术
+- NPM
 tags:
 - npm
 - 命令
