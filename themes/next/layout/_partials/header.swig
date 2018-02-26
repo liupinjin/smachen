@@ -53,10 +53,8 @@
             <a href="javascript:;" class="st-search-show-outputs">
           {% elseif config.search %}
             <a href="javascript:;" class="popup-trigger">
-          <!--增加的代码 start-->
           {% elseif theme.algolia %}
             <a href="javascript:;" class="popup-trigger">
-  　　　　　<!-- 增加的代码 end-->
           {% endif %}
             {% if theme.menu_icons.enable %}
               <i class="menu-item-icon fa fa-search fa-fw"></i> <br />

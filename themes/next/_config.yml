@@ -396,10 +396,21 @@ algolia_search:
   hits:
     per_page: 10
   labels:
-    input_placeholder: Search for Posts
-    hits_empty: "We didn't find any results for the search: ${query}"
-    hits_stats: "${hits} results found in ${time} ms"
+    input_placeholder: 输入搜索关键字
+    hits_empty: "没有找到与 ${query} 相关的文章"
+    hits_stats: "${hits} 篇相关文章，共耗时 ${time} ms"
 
+algolia:
+  applicationID: 'A2UR5JKG1B'
+  apiKey: '2e0ad21b79be7a2ccf2be09f02a0b163'
+  adminApiKey: '3df9b19ccd194f261cb1b82145114276'
+  indexName: 'smachen'
+  chunkSize: 5000
+  fields:
+    - title
+    - slug
+    - path
+    - content:strip
 
 
 #! ---------------------------------------------------------------
